@@ -235,16 +235,7 @@ class _MetropolisClockState extends State<MetropolisClock> {
                         ),
                       ),
                     ),
-                    FlareActor(
-                      "assets/Robot.flr",
-                      alignment: Alignment.center,
-                      sizeFromArtboard: false,
-                      fit: BoxFit.scaleDown,
-                      controller: _controls,
-                      animation: "Default",
-                      shouldClip: true,
-                      isPaused: false,
-                    ),
+
                   ],
                 ),
               ),

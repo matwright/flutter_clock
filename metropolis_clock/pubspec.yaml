@@ -20,7 +20,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/Robot.flr
     - assets/corner.png
   fonts:
   - family: MetropolisClock
