@@ -1,10 +1,6 @@
-# Analog Clock
+# Metropolis CLock
 
-This app is an example of an analog clock.
-It has a light theme and a dark theme, and displays sample weather and location data.
+This app is an example of an analog clock using Flutter; redesigned as an art-deco display inspired by the Film Metropolis, 1926.
 
-<img src='analog.gif' width='350'>
 
-<img src='analog_dark.png' width='350'>
 
-<img src='analog_light.png' width='350'>
